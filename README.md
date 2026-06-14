@@ -127,8 +127,7 @@ Fichiers PCB : [`hardware/pcb_transformer/`](hardware/pcb_transformer/)
 
 | Projet | Carte |
 |---|---|
-| [esp32-cyd-home-monitor](https://github.com/Papymakers/esp32-cyd-home-monitor) | A1 ou B |
-| [esp32-cyd-heating-remote](https://github.com/Papymakers/esp32-cyd-heating-remote) | A1 ou B |
+| [esp32-cyd-home-monitor](https://github.com/Papymakers/CYD-Heating-Remote-2zones) | A1 ou B |
 
 ---
 
