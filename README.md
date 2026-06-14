@@ -141,9 +141,9 @@ les cartes sont disponibles à la commande.
 
 | Option | Contenu | Prix indicatif |
 |---|---|---|
-| **PCB nu** | Carte seule, sans composants | 8 € |
-| **Kit** | PCB + tous les composants sélectionnés et testés | 20 € |
-| **Carte assemblée** | Prête à connecter | 35 € |
+| **PCB nu** | Carte seule, sans composants | 5 € |
+| **Kit** | PCB + tous les composants sélectionnés et testés | 15 € |
+| **Carte assemblée** | Prête à connecter | 25 € |
 
 Frais de port en sus. Expédition depuis la France.
 
