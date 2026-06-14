@@ -51,7 +51,7 @@ N ──────────────────────────
 
 | Réf. | Composant | Valeur |
 |---|---|---|
-| F1 | Fusible temporisé | 2A T — 5×20mm |
+| F1 | Fusible temporisé | 2A T — 3×10mm |
 | FL2 | Common Mode Choke | 10mH / 1.1A / 250VAC |
 | RV1 | Varistance MOV | 275VAC / 7mm |
 | Cy | Condensateur sécurité Y | 0.1µF / 275VAC MPP |
