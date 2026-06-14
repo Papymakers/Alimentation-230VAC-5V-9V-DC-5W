@@ -30,3 +30,19 @@ Format : [Keep a Changelog](https://keepachangelog.com/fr/1.0.0/)
   (HLK-9M05 + LM7805 + deux borniers de sortie indépendants)
 - LED témoin présence tension DC (optionnelle, sans résistance de puissance)
 - Empreinte fusible ajoutée côté Neutre (option)
+
+---
+
+## [1.1.0] — 2026-06-14
+
+### Ajouté
+- **Carte B** — alimentation linéaire 9VAC → LM7805 → 5VDC / 1A
+  - Pont de diodes double alternance
+  - Condensateur de filtrage 1000µF / 25V
+  - Zone cuivre nu exposé sous LM7805 pour dissipation thermique intégrée
+  - Trou de fixation M3 pour TO220
+  - Dimensions : 85.34 × 48.28 mm (compatibles boîtier Carte A)
+  - Fusible 2A temporisé côté AC
+- Restructuration `hardware/pcb/` → `hardware/pcb_hilink/` et `hardware/pcb_transformer/`
+- README principal unifié présentant les deux cartes avec tableau comparatif
+- Photo PCB Carte B ajoutée dans `docs/images/`
