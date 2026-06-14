@@ -89,7 +89,6 @@ avec trou de fixation M3 pour visser le TO220 sur le PCB.
 | BR1 | Pont de diodes | 1A / 50V | ou 4× 1N4001 |
 | C1 | Électrochimique | 1000µF / 25V | 470µF minimum |
 | U1 | Régulateur TO220 | LM7805 | Vis M3 sur PCB |
-| F1 | Fusible temporisé | 2A T — 5×20mm | Côté AC |
 | J1 | Bornier sortie DC | 2 pos. / 5.08mm | +5V / GND |
 | J2 | Bornier entrée AC | 2 pos. / 5.08mm | 9VAC |
 
