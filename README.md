@@ -123,14 +123,6 @@ Fichiers PCB : [`hardware/pcb_transformer/`](hardware/pcb_transformer/)
 
 ---
 
-## Évolutions prévues (v2)
-
-- Carte A : double sortie simultanée **9V + 5V**
-  (HLK-9M05 + LM7805, deux borniers de sortie indépendants)
-- Carte B : LED témoin présence 5V
-
----
-
 ## Projets utilisant ces cartes
 
 | Projet | Carte |
@@ -139,6 +131,34 @@ Fichiers PCB : [`hardware/pcb_transformer/`](hardware/pcb_transformer/)
 | [esp32-cyd-heating-remote](https://github.com/Papymakers/esp32-cyd-heating-remote) | A1 ou B |
 
 ---
+
+## Commander des cartes
+
+Ces cartes ont été conçues, testées et validées en conditions réelles
+dans des installations domestiques. Le firmware des projets associés
+est open source — si vous souhaitez soutenir le projet ou gagner du temps,
+les cartes sont disponibles à la commande.
+
+| Option | Contenu | Prix indicatif |
+|---|---|---|
+| **PCB nu** | Carte seule, sans composants | 8 € |
+| **Kit** | PCB + tous les composants sélectionnés et testés | 20 € |
+| **Carte assemblée** | Prête à connecter | 35 € |
+
+Frais de port en sus. Expédition depuis la France.
+
+📧 Commandes et questions : support@papymakers.com — [papymakers.com](https://papymakers.com)
+
+---
+
+## Contact & Support
+
+- **Bug / question technique** → ouvrir une [Issue](../../issues)
+- **Commandes** → support@papymakers.com
+- **Discussions générales** → onglet [Discussions](../../discussions)
+
+---
+
 
 ## Licence
 
