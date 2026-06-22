@@ -63,7 +63,7 @@ Fichiers PCB : [`hardware/pcb_hilink/`](hardware/pcb_hilink/)
 
 ---
 
-## Carte B — Transformateur 9VAC + LM7805
+## Carte B — Transformateur 9VAC-5W + LM7805
 
 ![PCB Transformateur vue de dessus](docs/images/pcb_transformer_top_view.png)
 
