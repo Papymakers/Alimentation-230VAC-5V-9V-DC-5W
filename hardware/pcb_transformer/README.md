@@ -1,13 +1,4 @@
-# PCB Transformateur 9VAC — Carte B
-
-## Fichiers
-
-| Fichier | Description |
-|---|---|
-| `acdc_transformer_gerber.zip` | Gerbers JLCPCB (à ajouter depuis EasyEDA) |
-| `acdc_transformer_schematic.json` | Source EasyEDA schéma |
-| `acdc_transformer_pcb.json` | Source EasyEDA PCB |
-| `acdc_transformer_bom.csv` | Bill of Materials |
+# PCB Transformateur 9VAC 5W — Carte B
 
 ## Paramètres JLCPCB
 
