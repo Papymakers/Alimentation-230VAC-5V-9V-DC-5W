@@ -1,14 +1,5 @@
 # PCB — Hi-Link AC/DC PSU
 
-## Fichiers
-
-| Fichier | Description |
-|---|---|
-| `hilink_acdc_psu_gerber.zip` | Gerbers JLCPCB (à ajouter depuis EasyEDA) |
-| `hilink_acdc_psu_schematic.json` | Source EasyEDA schéma |
-| `hilink_acdc_psu_pcb.json` | Source EasyEDA PCB |
-| `hilink_acdc_psu_bom.csv` | Bill of Materials |
-
 ## Paramètres JLCPCB
 
 | Paramètre | Valeur |
@@ -20,12 +11,6 @@
 | Sérigraphie | Blanche |
 | Finition | HASL sans plomb |
 | Quantité min. | 5 pièces |
-
-## Export Gerbers depuis EasyEDA
-
-1. `Fabrication → Gerber → JLCPCB`
-2. Vérifier avec [Gerber Viewer JLCPCB](https://gerber-viewer.jlcpcb.com)
-3. Déposer le ZIP dans ce dossier
 
 ## BOM (Bill of Materials)
 
