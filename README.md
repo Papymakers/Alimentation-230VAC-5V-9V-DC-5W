@@ -62,7 +62,7 @@ N ──────────────────────────
 ### Évolution possible : module filtre HLK-20EMI
 
 Hi-Link propose le module **HLK-20EMI** qui remplace en un seul composant boitier traversant
-l'ensemble de la protection secteur de cette carte : le MOV (RV1), le condensateur Y (Cy)
+l'ensemble de la protection secteur de cette carte : le MOV (RV1), le condensateur Y (C3)
 et la self de mode commun (FL2).
 
 | Caractéristique | Valeur |
