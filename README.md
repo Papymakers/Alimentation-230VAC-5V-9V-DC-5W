@@ -59,7 +59,28 @@ N ──────────────────────────
 
 > ⚠️ **230V CA — habilitation électrique requise (NF C 18-510)**
 
-Fichiers PCB : [`hardware/pcb_hilink/`](hardware/pcb_hilink/)
+### Évolution possible : module filtre HLK-20EMI
+
+Hi-Link propose le module **HLK-20EMI** qui remplace en un seul composant boitier traversant
+l'ensemble de la protection secteur de cette carte : le MOV (RV1), le condensateur Y (Cy)
+et la self de mode commun (FL2).
+
+| Caractéristique | Valeur |
+|---|---|
+| Tension d'entrée | 85 – 305 VAC |
+| Courant max | 0.5 A |
+| Atténuation | 20 dB (105 kHz – 1 GHz) |
+| Conformité surge | IEC/EN61000-4-5 ±2 kV |
+| Conformité EMI | CISPR22/EN55022 Classe B |
+| Encombrement | ~2.5 cm² / 18 mm de hauteur |
+| Prix indicatif | ~1.10 $ |
+
+Le module s'insère en série sur la ligne secteur en amont du Hi-Link,
+compatible installations **Classe I** (avec terre) et **Classe II** (sans terre).
+Son faible encombrement (2.5 cm²) et sa hauteur de 18 mm en font une alternative
+intéressante pour simplifier le routage PCB et réduire le nombre de composants.
+
+🔗 [Fiche produit HLK-20EMI — hlktech.net](https://www.hlktech.net/index.php?id=1374)
 
 ---
 
